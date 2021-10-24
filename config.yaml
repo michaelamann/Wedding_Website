@@ -17,7 +17,9 @@ menu:
     - name: Venue info
       url: /venue/
     - name: Schedule
-      url: /schedule/
+      url: /schedule/s
+    - name: Registry
+      url: /registry/
 
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
