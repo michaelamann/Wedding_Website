@@ -1,0 +1,11 @@
+name: "Brooke-and-Michaels-Weddding"
+navbar:
+  title: "Brooke and Michael's Weddding"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: darkly
