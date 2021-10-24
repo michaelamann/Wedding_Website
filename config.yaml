@@ -1,7 +1,7 @@
 baseurl: /
 languageCode: en-us
 title: Brooke and Michael's Wedding
-theme: hugo-lithium
+theme: "hugo-scroll"
 googleAnalytics: ''
 disqusShortname: ''
 ignoreFiles:
@@ -32,11 +32,11 @@ params:
     - yaml
   highlightjsTheme: github
   highlightjsVersion: 9.12.0
-  logo:
+  logo: 
     alt: Logo
-    height: 50
-    url: logo.png
-    width: 50
+    height: 500
+    url: cover.png
+    width: 5000
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:

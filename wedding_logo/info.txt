@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: clarikageo-medium
+font link: https://www.fontspring.com/fonts/the-refinery/clarika/clarika-geometric-medium
+font author: The Refinery
+font author site: https://www.refinerybrand.com/
+
+
+icon designer: Lee Mette
+icon designer link: /leemette
+        
+{"bg":"#EEF1F8","icon-gradient-0":"#D6413F","icon-gradient-1":"#4285D3","font":"#3E2835","slogan":"#523c49"}
+      
